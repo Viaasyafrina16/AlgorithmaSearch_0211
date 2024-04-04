@@ -5,7 +5,7 @@ int arr[20]; // Array to be searched
 int n;		 // Number of elements in the array
 int i;		 // Index of array element
 
-void input() 
+void input()
 {
 	while (true)
 	{
@@ -24,7 +24,13 @@ void input()
 	for (i = 0; i < n; i++)
 	{
 		cout << "<" << (i + 1) << ">";
-		cin >> arr[i]
+		cin >> arr[i];
+	}
+}
+
+void LinearSearch()
+{
+
 
 
 
