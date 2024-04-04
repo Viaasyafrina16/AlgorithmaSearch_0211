@@ -15,3 +15,8 @@ void input()
 			break;
 		else
 			cout << "\nArray should have minimum 1 and maxim 20 elements. \n\n";
+	}
+
+	// Accept array elements
+
+
